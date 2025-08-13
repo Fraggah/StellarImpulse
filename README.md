@@ -7,7 +7,7 @@
 <img width="3839" height="2159" alt="image" src="https://github.com/user-attachments/assets/1e4bdbdc-d59b-4665-bd97-88a8e68d52a3" />
 
 **Genre:** Endless Runner (Spaceship)  
-**Engine:** Unreal Engine 5 (Blueprints + optional C++)  
+**Engine:** Unreal Engine 5 (Blueprints)  
 **Platform:** PC (Windows) — scalable to others
 
 Neon-styled endless runner where you pilot a spaceship through procedurally generated obstacle fields. Master horizontal positioning and ship roll to thread tight gaps while the world streams forward infinitely. Includes a graphics settings menu for quick performance tuning.
