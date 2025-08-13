@@ -2,6 +2,10 @@
 
 <img width="3839" height="2159" alt="image" src="https://github.com/user-attachments/assets/80ada1e5-4e72-4340-9093-d77ec9f6fa23" />
 
+<img width="3839" height="2157" alt="image" src="https://github.com/user-attachments/assets/2227caf8-f066-4159-bb24-2669bb133bb4" />
+
+<img width="3839" height="2159" alt="image" src="https://github.com/user-attachments/assets/1e4bdbdc-d59b-4665-bd97-88a8e68d52a3" />
+
 **Genre:** Endless Runner (Spaceship)  
 **Engine:** Unreal Engine 5 (Blueprints + optional C++)  
 **Platform:** PC (Windows) — scalable to others
@@ -40,3 +44,5 @@ Neon-styled endless runner where you pilot a spaceship through procedurally gene
   - Start → Run → Score/Distance tracking → Game Over → Restart.
   - Die on collision or time-out in “survival challenges”.
   - Basic leaderboard stub (local; ready for backend hook).
+ 
+  - **Niagara Particles Systems**
